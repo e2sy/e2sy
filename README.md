@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Mayank Bhaskar — banner" width="100%"/>
+<img src="assets/banner-anim.svg" alt="Mayank Bhaskar — animated banner" width="100%"/>
+
+</div>
 
 <br/>
 
-# Hi 👋, I'm Mayank Bhaskar
-
-### AI & Full-Stack Developer · Bihar, India
+<div align="center">
 
 <a href="https://github.com/indiancybersecz">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00E5A0&center=true&vCenter=true&width=620&height=36&lines=ship+%3E+talk;idea+%E2%86%92+build+%E2%86%92+ship;AI+%C2%B7+automation+%C2%B7+open+source;building+tools+that+outlast+the+hype+cycle" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 <!-- Quick-stats badge row — auto-updating social proof -->
 <div align="center">
@@ -32,7 +32,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🚀 About Me
 
@@ -57,7 +57,7 @@ My goal is simple: **write clean code, ship useful things, and build software th
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 📍 NOW
 
@@ -71,7 +71,7 @@ last_updated:        2026-09-30
 
 <sub>_Refresh this section every 2-4 weeks so visitors see momentum._</sub>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🚀 Featured Projects
 
@@ -96,7 +96,7 @@ _Re-uploading active dev tooling to this account — featured cards land here as
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 🤝 Connect
 
@@ -109,9 +109,14 @@ _Re-uploading active dev tooling to this account — featured cards land here as
   <a href="mailto:mayankbhaskardev@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="42"/></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 💻 Tech Stack
+
+<!-- Scrolling marquee of the tech stack -->
+<p align="center">
+  <img src="assets/marquee.svg" width="100%" alt="scrolling tech stack marquee"/>
+</p>
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -145,33 +150,35 @@ _Re-uploading active dev tooling to this account — featured cards land here as
 </p>
 </details>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=indiancybersecz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00e5a0&icon_color=58a6ff&text_color=c9d1d9" alt="indiancybersecz — stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indiancybersecz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&dates=8b949e" alt="indiancybersecz — streak" width="49%"/>
+<!-- FIXED: simpler URL without custom color params that were causing 400s -->
+<img src="https://github-readme-stats.vercel.app/api?username=indiancybersecz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="indiancybersecz — stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=indiancybersecz&theme=github-dark-blue&hide_border=true" alt="indiancybersecz — streak" width="49%"/>
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indiancybersecz&theme=github-compact&hide_border=true&radius=6&color=00e5a0&line=00e5a0&point=58a6ff&bg_color=0d1117&title_color=00e5a0" alt="indiancybersecz's Contribution Graph" width="92%"/>
+<!-- FIXED: simpler URL without custom color params -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=indiancybersecz&theme=github-compact&hide_border=true" alt="indiancybersecz's Contribution Graph" width="92%"/>
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
-<!-- Visitor counter — social proof of profile traffic -->
-<img src="https://komarev.com/ghvisitor/indiancybersecz?label=Profile%20visitors&labelColor=0d1117&color=00e5a0&logo=github&logoColor=white&style=for-the-badge" alt="Profile visitors" />
+<!-- FIXED: simpler visitor counter URL -->
+<img src="https://komarev.com/ghpvc/?username=indiancybersecz&label=Profile%20visitors&labelColor=0d1117&color=00e5a0&logo=github&logoColor=white&style=for-the-badge" alt="Profile visitors" />
 
 <br/><br/>
 
