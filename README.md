@@ -1,11 +1,20 @@
 <div align="center">
 
-<!-- Hero typing-SVG as faux-banner -->
-<a href="https://github.com/indiancybersecz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E6EDF3&center=true&vCenter=true&width=720&height=42&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayank+Bhaskar;AI+%26+Full-Stack+Developer;adhd-powered+builder;idea+%E2%86%92+build+%E2%86%92+ship;AI+%C2%B7+automation+%C2%B7+open+source;learning+in+public" alt="Typing SVG" />
-</a>
+<img src="assets/banner.png" alt="Mayank Bhaskar — banner" width="100%"/>
+
+</div>
 
 <br/>
+
+<div align="center">
+
+# Hi 👋, I'm Mayank Bhaskar
+
+### AI & Full-Stack Developer
+
+<a href="https://github.com/indiancybersecz">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&height=32&lines=adhd-powered+builder;idea+%E2%86%92+build+%E2%86%92+ship;AI+%C2%B7+automation+%C2%B7+open+source;learning+in+public" alt="Typing SVG" />
+</a>
 
 <p>
   <em>Building useful tools across AI, automation &amp; open source.</em>
@@ -17,6 +26,10 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 **Mayank here** — an ADHD-powered builder obsessed with turning random ideas into useful software. I work across **AI, full-stack, automation and open source**, and I'd rather ship a real product than talk about one.
 
 I enjoy building **scalable, production-ready tools** with clean architecture — from desktop apps to automation pipelines to developer CLIs. Every project is a chance to learn something new and make it real.
@@ -24,6 +37,15 @@ I enjoy building **scalable, production-ready tools** with clean architecture �
 Currently deep in **Next.js, PostgreSQL, Rust and AI/ML**, sharpening my problem-solving skills by building and shipping constantly.
 
 My goal is simple: **write clean code, ship useful things, and build software that lasts.**
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="assets/pixel-dev.png" alt="Pixel-art developer character" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
