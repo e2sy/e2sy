@@ -75,12 +75,14 @@ last_updated:        2026-09-30
 
 ## 🚀 Featured Projects
 
-_Re-uploading active dev tooling to this account — featured cards land here as each repo goes live. Stay tuned._
+_Active dev tooling on this account — featured cards land here as each repo goes live._
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-  <a href="https://github.com/indiancybersecz?tab=repositories"><img src="https://img.shields.io/badge/coming%20soon-hearth-f78166?style=for-the-badge&labelColor=0d1117&logo=googleplaymusic&logoColor=f78166" alt="hearth — coming soon"/><br/><sub>Desktop YouTube Music player</sub></a>
+  <a href="https://github.com/indiancybersecz/hearth"><img src="https://img.shields.io/badge/hearth-live-f78166?style=for-the-badge&labelColor=0d1117&logo=googleplaymusic&logoColor=f78166" alt="hearth — live"/></a><br/>
+  <sub><a href="https://github.com/indiancybersecz/hearth">🔥 Three-pane desktop YouTube Music player — synced lyrics, crossfade, Discord RPC, plugin system</a></sub><br/>
+  <sub><b>★ star · view repo →</b></sub>
 </td>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/indiancybersecz?tab=repositories"><img src="https://img.shields.io/badge/coming%20soon-mayaroute-a371f7?style=for-the-badge&labelColor=0d1117&logo=openai&logoColor=a371f7" alt="mayaroute — coming soon"/><br/><sub>Free AI gateway (OpenAI-compatible)</sub></a>
