@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1344" height="64" viewBox="0 0 1344 64" role="img" aria-label="tech stack marquee">
+  <defs>
+    <clipPath id="marquee-clip">
+      <rect x="0" y="0" width="1344" height="64"/>
+    </clipPath>
+    <linearGradient id="fade-left" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-right" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1344" height="64" fill="#0d1117" opacity="0.5"/>
+
+  <g clip-path="url(#marquee-clip)">
+    <!-- Marquee text — duplicated for seamless infinite scroll -->
+    <g font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="18" letter-spacing="3">
+      <text x="0" y="40" fill="#00e5a0" font-weight="600">
+        <tspan>JavaScript  ·  TypeScript  ·  Python  ·  Rust  ·  Java  ·  React  ·  Next.js  ·  Node.js  ·  Tailwind  ·  Docker  ·  AWS  ·  PostgreSQL  ·  MySQL  ·  MongoDB  ·  Git  ·  VS Code  ·  Vite  ✦  </tspan>
+        <animate attributeName="x" from="0" to="-672" dur="14s" repeatCount="indefinite"/>
+      </text>
+      <text x="672" y="40" fill="#00e5a0" font-weight="600">
+        <tspan>JavaScript  ·  TypeScript  ·  Python  ·  Rust  ·  Java  ·  React  ·  Next.js  ·  Node.js  ·  Tailwind  ·  Docker  ·  AWS  ·  PostgreSQL  ·  MySQL  ·  MongoDB  ·  Git  ·  VS Code  ·  Vite  ✦  </tspan>
+        <animate attributeName="x" from="672" to="0" dur="14s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- Fade edges (left + right) -->
+  <rect x="0" y="0" width="80" height="64" fill="url(#fade-left)"/>
+  <rect x="1264" y="0" width="80" height="64" fill="url(#fade-right)"/>
+</svg>
